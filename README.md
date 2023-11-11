@@ -1,16 +1,36 @@
-### Hi there 👋
+# Moksh Chadha 👨‍💻
 
-<!--
-**mokshchadha/mokshchadha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Passionate and results-driven JavaScript Developer with 4 years of experience specializing in MongoDB, React, Node.js, and Express. Also, proficient in mobile app development with Flutter.
+Currently working fulltime as a SDE 2 at source.one
 
-Here are some ideas to get you started:
+## Skills 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:**
+  - Javascript
+  - Typescript
+  - Dart
+
+- **Frontend:**
+  - React
+  - HTML5, CSS3, JavaScript (ES6+)
+
+- **Backend:**
+  - Node.js
+  - Express
+
+- **Database:**
+  - MongoDB
+
+- **Mobile App Development:**
+  - Flutter
+
+- **Version Control:**
+  - Git
+
+
+## Additional Information 🌟
+
+- Actively seeking new opportunities and collaborations.
+- Open to discussing innovative projects and challenges.
+- Constantly learning and staying updated with the latest technologies in the web and mobile development space.
