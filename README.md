@@ -57,7 +57,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/heroku-11-1175214.png?raw=true" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
     <td><img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" width="200"></td>
-    <td><img src="" width="200"></td>
+    <td><img src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png" width="200"></td>
   </tr>
 
 </table>
