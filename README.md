@@ -1,4 +1,4 @@
-# Hi there, I'm Moksh! 👋
+# Hello there, I'm Moksh! 👋
 
 ## About Me
 I'm a full-stack developer with 7+ years of experience turning coffee into code ☕➡️💻. I spend my days building web applications that actually work (most of the time) and convincing computers to do what I want them to do.
